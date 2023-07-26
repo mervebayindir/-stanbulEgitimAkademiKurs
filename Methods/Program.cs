@@ -12,7 +12,7 @@
             Console.WriteLine(sonuc + "!");
 
             IkiSayiTopla(3, 5);
-
+            
             int no1 = -10;
             int no2 = 20;
             IkiSayiTopla(no1, no2);
