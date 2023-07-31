@@ -3,33 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesAndVariables", "DataTypesAndVariables\DataTypesAndVariables.csproj", "{E9F38EA8-C68A-420E-8D89-12E9CE9F7495}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypesAndVariables", "DataTypesAndVariables\DataTypesAndVariables.csproj", "{E9F38EA8-C68A-420E-8D89-12E9CE9F7495}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticOperations", "ArithmeticOperations\ArithmeticOperations.csproj", "{41F426EA-0FDF-4C17-ACF7-8ACEC3F0F9F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArithmeticOperations", "ArithmeticOperations\ArithmeticOperations.csproj", "{41F426EA-0FDF-4C17-ACF7-8ACEC3F0F9F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calisma", "Calisma\Calisma.csproj", "{175EED1D-62F2-4B22-A868-0ECDEC73D177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calisma", "Calisma\Calisma.csproj", "{175EED1D-62F2-4B22-A868-0ECDEC73D177}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{FEF95CF7-058F-4B4F-B57D-421E79999CF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{FEF95CF7-058F-4B4F-B57D-421E79999CF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsDemo", "MethodDemo\MethodsDemo.csproj", "{EF84E234-427F-423E-9272-38DBDCEB01B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsDemo", "MethodDemo\MethodsDemo.csproj", "{EF84E234-427F-423E-9272-38DBDCEB01B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsOverload", "MethodsOverload\MethodsOverload.csproj", "{A9C8FB93-DD3B-49A7-8FD4-53CE05F9FC34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsOverload", "MethodsOverload\MethodsOverload.csproj", "{A9C8FB93-DD3B-49A7-8FD4-53CE05F9FC34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfDemo1", "IfDemo1\IfDemo1.csproj", "{92C5786E-D583-4D31-AFDA-D8E8BFD922CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDemo1", "IfDemo1\IfDemo1.csproj", "{92C5786E-D583-4D31-AFDA-D8E8BFD922CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfDemos3", "IfDemos3\IfDemos3.csproj", "{458F3A1C-BB09-4353-A0AA-E460711F5EA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDemos3", "IfDemos3\IfDemos3.csproj", "{458F3A1C-BB09-4353-A0AA-E460711F5EA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calisma2", "Calisma2\Calisma2.csproj", "{7806BA88-C5F6-43A7-ADA4-FB4D5799687B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calisma2", "Calisma2\Calisma2.csproj", "{7806BA88-C5F6-43A7-ADA4-FB4D5799687B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfConditional", "IfConditional\IfConditional.csproj", "{07641BC5-473D-4563-8540-B8BA94B311EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfConditional", "IfConditional\IfConditional.csproj", "{07641BC5-473D-4563-8540-B8BA94B311EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfDemo2", "IfDemo2\IfDemo2.csproj", "{5E9F1A19-EED0-4B5D-94FE-35B5368D978B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDemo2", "IfDemo2\IfDemo2.csproj", "{5E9F1A19-EED0-4B5D-94FE-35B5368D978B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfDemo4", "IfDemo4\IfDemo4.csproj", "{D6D91093-2EA1-4331-A1B0-6D754403DB15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDemo4", "IfDemo4\IfDemo4.csproj", "{D6D91093-2EA1-4331-A1B0-6D754403DB15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfDemo5", "IfDemo5\IfDemo5.csproj", "{A80D5948-BA03-4C7B-A7D9-25473031E16F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDemo5", "IfDemo5\IfDemo5.csproj", "{A80D5948-BA03-4C7B-A7D9-25473031E16F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfDemo6", "IfDemo6\IfDemo6.csproj", "{FB4E205D-E074-4E95-8D73-0C316B61C1B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDemo6", "IfDemo6\IfDemo6.csproj", "{FB4E205D-E074-4E95-8D73-0C316B61C1B7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metholarla Korona Mi Değil Mi", "Metholarla Korona Mi Değil Mi", "{518DC507-53D0-4960-9F80-78088D8B4371}"
 EndProject
@@ -47,7 +47,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VizeFinalHesaplamailelHarfN
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ucgen Alan Hesaplama", "Ucgen Alan Hesaplama", "{4FAB6C2F-7310-491D-94D4-85BD4763D4D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UcgenAlanHesaplama", "UcgenAlanHesaplama\UcgenAlanHesaplama.csproj", "{8EBD6466-4543-467D-9B38-A40E61A771BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UcgenAlanHesaplama", "UcgenAlanHesaplama\UcgenAlanHesaplama.csproj", "{8EBD6466-4543-467D-9B38-A40E61A771BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchConditional", "SwitchConditional\SwitchConditional.csproj", "{1AC0C857-28C1-4119-92B7-CC0946DB205C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchDemo1", "SwitchDemo1\SwitchDemo1.csproj", "{F4B77B6A-4364-4ED9-806B-1E595C6E54E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiitchDemo2", "SwiitchDemo2\SwiitchDemo2.csproj", "{A7177C81-8128-4B76-9DFE-B0E21BC29EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryOperator", "TernaryOperator\TernaryOperator.csproj", "{FCC8BD44-B1E3-4A58-A1C2-21B837FA3E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryDemo", "TernaryDemo\TernaryDemo.csproj", "{8890A014-3745-4CCB-BF3D-EBB7BC1FAC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{D046A4D7-C7E3-41A4-90AC-A1D698F85A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cagil_Hoca_Calisma", "Cagil_Hoca_Calisma\Cagil_Hoca_Calisma.csproj", "{EDB61454-8CE7-4DC4-9A24-8B7E98A29898}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -115,6 +129,34 @@ Global
 		{8EBD6466-4543-467D-9B38-A40E61A771BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EBD6466-4543-467D-9B38-A40E61A771BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EBD6466-4543-467D-9B38-A40E61A771BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC0C857-28C1-4119-92B7-CC0946DB205C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC0C857-28C1-4119-92B7-CC0946DB205C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC0C857-28C1-4119-92B7-CC0946DB205C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC0C857-28C1-4119-92B7-CC0946DB205C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B77B6A-4364-4ED9-806B-1E595C6E54E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B77B6A-4364-4ED9-806B-1E595C6E54E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B77B6A-4364-4ED9-806B-1E595C6E54E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B77B6A-4364-4ED9-806B-1E595C6E54E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7177C81-8128-4B76-9DFE-B0E21BC29EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7177C81-8128-4B76-9DFE-B0E21BC29EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7177C81-8128-4B76-9DFE-B0E21BC29EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7177C81-8128-4B76-9DFE-B0E21BC29EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC8BD44-B1E3-4A58-A1C2-21B837FA3E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC8BD44-B1E3-4A58-A1C2-21B837FA3E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC8BD44-B1E3-4A58-A1C2-21B837FA3E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC8BD44-B1E3-4A58-A1C2-21B837FA3E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8890A014-3745-4CCB-BF3D-EBB7BC1FAC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8890A014-3745-4CCB-BF3D-EBB7BC1FAC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8890A014-3745-4CCB-BF3D-EBB7BC1FAC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8890A014-3745-4CCB-BF3D-EBB7BC1FAC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D046A4D7-C7E3-41A4-90AC-A1D698F85A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D046A4D7-C7E3-41A4-90AC-A1D698F85A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D046A4D7-C7E3-41A4-90AC-A1D698F85A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D046A4D7-C7E3-41A4-90AC-A1D698F85A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB61454-8CE7-4DC4-9A24-8B7E98A29898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB61454-8CE7-4DC4-9A24-8B7E98A29898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB61454-8CE7-4DC4-9A24-8B7E98A29898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB61454-8CE7-4DC4-9A24-8B7E98A29898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
